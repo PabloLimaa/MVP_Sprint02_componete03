@@ -1,5 +1,5 @@
 ## Tecnologias Utilizadas
-Este projeto utiliza HTML, CSS, e JavaScript para criar um sistema eficiente e responsiva. O sistema é totalmente executado no lado do cliente, utilizando localStorage para simular o armazenamento de dados.
+Este projeto utiliza HTML, CSS, e JavaScript.
 
 ## Como Utilizar a API Externa OpenWeather
 A API OpenWeather fornece dados meteorológicos abrangentes que podem ser utilizados em diversos tipos de aplicativos, desde simples widgets de clima até análises meteorológicas complexas. Aqui está um guia básico sobre como começar a utilizar a API OpenWeather.
